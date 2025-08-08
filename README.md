@@ -3,4 +3,4 @@ File uploader for kamuicode. This is implemented as a wrapper for the existing u
 For more information please read fal_upload_wrapper_README.md.
 
 kamuicode用のファイルアップローダーです。既存のアップローダー（local_fal_upload.py）のラッパーとして実装されています。このラッパーはFAL URLを自動的に記憶し、不要なアップロードを回避します。
-詳細については、fal_upload_wrapper_README.mdをご覧ください。
+詳細については、fal_upload_wrapper_README.mdをご覧ください。Linux (WSL Ubuntu)/Windowsでテスト済。Macでも動作するはずとClaudeは言っています。
